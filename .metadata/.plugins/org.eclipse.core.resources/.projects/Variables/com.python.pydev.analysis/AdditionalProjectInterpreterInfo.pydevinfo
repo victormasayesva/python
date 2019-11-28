@@ -1,0 +1,47 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\ITAUser\Desktop\python\.metadata\.plugins\org.eclipse.core.resources\.projects\Variables\com.python.pydev.analysis\v2_indexcache
+practiceVariables|1573407256728277000|C:\Users\ITAUser\Desktop\python\Variables\practiceVariables.py
+variableDrills|1574901580571860000|C:\Users\ITAUser\Desktop\python\Variables\variableDrills.py
+Variables.variableDrills|1574899236520019000|C:\Users\ITAUser\Desktop\python\Variables\Variables\variableDrills.py
+debugVariableDrills|1574897841147183000|C:\Users\ITAUser\Desktop\python\Variables\debugVariableDrills.py
+Variables.debugVariableDrills|1574900700299149000|C:\Users\ITAUser\Desktop\python\Variables\Variables\debugVariableDrills.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=C:\Users\ITAUser\Desktop\python\Variables\Variables\variableDrills.py
+2=variableDrills
+1=C:\Users\ITAUser\Desktop\python\Variables\variableDrills.py
+4=Variables.variableDrills
+7=C:\Users\ITAUser\Desktop\python\Variables\debugVariableDrills.py
+8=debugVariableDrills
+6=Variables.debugVariableDrills
+5=C:\Users\ITAUser\Desktop\python\Variables\Variables\debugVariableDrills.py
+-- END DICTIONARY
+-- START TREE 1
+21
+a|2|a!1^39#1*19@a!3^39#1*35@
+alm|2|almostDone!3^79#1*35@almostDone!1^79#1*19@
+b|2|b!3^42#1*35@b!1^42#1*19@
+c|2|c!1^45#1*19@c!3^45#1*35@
+d|2|d!3^48#1*35@d!1^48#1*19@
+don|2|done!1^67#1*19@done!3^67#1*35@
+e|2|e!3^55#1*35@e!1^55#1*19@
+f|2|f!3^58#1*35@f!1^58#1*19@
+g|2|g!3^61#1*35@g!1^61#1*19@
+h|2|h!1^64#1*19@h!3^64#1*35@
+i|2|i!1^73#1*19@i!3^73#1*35@
+j|2|j!1^76#1*19@j!3^76#1*35@
+lis|5|listInt!3^83#1*35@listBoolean!1^91#1*19@listBoolean!3^91#1*35@listInt!1^83#1*19@listString!1^87#1*19@
+m|2|m!5^58#1*51@m!7^59#1*67@
+nam|4|name!1^7#1*19@name!3^7#1*35@name!5^13#1*51@name!7^13#1*67@
+sma|2|smart!3^70#1*35@smart!1^70#1*19@
+var|6|var1!1^20#1*19@var3!1^26#1*19@var3!3^26#1*35@var1!3^20#1*35@var2!1^23#1*19@var2!3^23#1*35@
+x|4|x!5^35#1*51@x!1^29#1*19@x!3^29#1*35@x!7^36#1*67@
+y|4|y!7^52#1*67@y!5^51#1*51@y!1^32#1*19@y!3^32#1*35@
+yay|2|yay!5^44#1*51@yay!7^45#1*67@
+z|2|z!1^36#1*19@z!3^36#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
